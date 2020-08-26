@@ -6,6 +6,32 @@
         background-color: #fff;
     }
     /*--------------------------------navbar section-----------------------------------*/
+    
+    .navbar a {
+        color: #000;
+    }
+    
+    .nav-item {
+        padding: 10px;
+        color: #000;
+    }
+    
+    .nav-icons {
+        padding: 10px;
+    }
+    
+    .navbar-collapse li a {
+        color: #000;
+    }
+    
+    v .dropdown-toggle {
+        color: #000;
+    }
+    
+    .img-thumbnail {
+        width: 10%;
+        height: 10%;
+    }
     /*--------------------------------navbar-small section-----------------------------------*/
     
     .nav-small {
@@ -23,7 +49,7 @@
     /*--------------------------------carousel section-----------------------------------*/
     
     .d-block {
-        height: 50vh;
+        height: 60vh;
     }
     /*--------------------------------njumbotron section-----------------------------------*/
     /*--------------------------------grid section-----------------------------------*/
@@ -33,9 +59,8 @@
         background-image: url("https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4pFtT?ver=4ff3&q=90&h=675&w=830&b=%23FFFFFFFF&aim=true");
         background-repeat: no-repeat;
         background-position: center;
-        background-size: 90%;
+        background-size: cover;
         height: 75vh;
-        position: relative;
     }
     /*--------------------------------2nd grid section-----------------------------------*/
     /*--------------------------------socials section-----------------------------------*/
