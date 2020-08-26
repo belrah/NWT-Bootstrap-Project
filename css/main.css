@@ -1,0 +1,54 @@
+    body {
+        font-size: 15px;
+        font-family: Segoe UI, SegoeUI, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        min-width: 320px;
+        color: #000;
+        background-color: #fff;
+    }
+    /*--------------------------------navbar section-----------------------------------*/
+    /*--------------------------------navbar-small section-----------------------------------*/
+    
+    .nav-small {
+        background-color: #0067B8;
+        height: 20%;
+        padding: 12px 36px;
+        font-size: 18px;
+        display: block;
+    }
+    
+    .nav-small a {
+        background-color: #0067B8;
+        color: snow !important;
+    }
+    /*--------------------------------carousel section-----------------------------------*/
+    
+    .d-block {
+        height: 50vh;
+    }
+    /*--------------------------------njumbotron section-----------------------------------*/
+    /*--------------------------------grid section-----------------------------------*/
+    /*--------------------------------hero section-----------------------------------*/
+    
+    .hero {
+        background-image: url("https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4pFtT?ver=4ff3&q=90&h=675&w=830&b=%23FFFFFFFF&aim=true");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 90%;
+        height: 75vh;
+        position: relative;
+    }
+    /*--------------------------------2nd grid section-----------------------------------*/
+    /*--------------------------------socials section-----------------------------------*/
+    
+    .socials span {
+        font-size: 2em;
+    }
+    /*--------------------------------footer section-----------------------------------*/
+    
+    .main-footer {
+        background-color: rgb(243, 240, 240);
+    }
+    
+    .main-footer p {
+        color: #000;
+    }
